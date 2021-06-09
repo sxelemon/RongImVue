@@ -1,8 +1,9 @@
 # im-chat
 
-# 基于腾讯融云webSDK开发的一款聊天工具
+#Using RongIM webSDK
 
-# 部署：修改 .env.development相应的接口地址及融云key vue.config.js代理地址
+# congifurations made in .env.development files add app key vue.config.js
+
 
 ## Project setup
 ```
